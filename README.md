@@ -63,3 +63,14 @@ Ensure you have the following Python packages installed:
 
 ```bash
 pip install numpy matplotlib
+```
+
+Then run the main script:
+
+`2D_Quantum_Particle_1.py`
+
+This will display a sequence of plots showing how the free particle's wavefunction evolves over time.
+
+## 📝 License
+
+This project is for academic and educational purposes. Contact the author for permission to reuse or redistribute parts of the work.
